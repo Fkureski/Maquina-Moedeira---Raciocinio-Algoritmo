@@ -1,33 +1,59 @@
 valor_moeda_cinco_centavos = float(0.05)
+
 valor_moeda_dez_centavos = float(0.10)
+
 valor_moeda_vinte_e_cinco_centavos = float(0.25)
+
 valor_moeda_cinquenta_centavos = float(0.50)
+
 valor_moeda_um_real = int(1.0)
+
 valor_cedula_dois_reais = int(2)
+
 valor_cedula_cinco_reais = int(5)
+
 valor_cedula_dez_reais = int(10)
+
 valor_cedula_vinte_reais = int(20)
+
 valor_cedula_cinquenta_reais = int(50)
+
 valor_cedula_cem_reais = int(100)
+
 valor_cedula_duzentos_reais = int(200)
 
 #quantidade de moedas inicialmente em estoque
+
 quantidade_moeda_cinco_centavos = int(10)
+
 quantidade_moeda_dez_centavos = int(15)
+
 quantidade_moeda_vinte_e_cinco_centavos = int(20)
+
 quantidade_moeda_cinquenta_centavos = int(42)
+
 quantidade_moeda_um_real = int(60)
+
 quantidade_cedula_dois_reais = int(80)
+
 quantidade_cedula_cinco_reais = int(90)
+
 quantidade_cedula_dez_reais = int(20)
+
 quantidade_cedula_vinte_reais = int(10)
+
 quantidade_cedula_cinquenta_reais = int(10)
+
 quantidade_cedula_cem_reais = int(5)
+
 quantidade_cedula_duzentos_reais = int(1)
 
 preco_agua = float(2.50)
+
 preco_guarana = float(5.25)
+
 preco_coca_normal = float(6.50)
+
 preco_coca_zero = float(7.75)
 
 
